@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dsai-safety-management",
+  "private_key_id": "8bb83aec31b4e46ecfc79ba7956aa66aa0b9dc3a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDAqMMsgw1JUOBm\nrI5Rh/Mf4pTHuoRuD2lGpUoJpQf+76bNks1ScIvTWfz/o+m5JP3C6YDZIGVFrKvJ\nCxYC0S3yJS6Dh/zfoNNZjRWHeUrBQ3TGWOGGQ99h9cIztUWJMcc27W9/NEkUDuL/\nxxz9USgrJ608AWff+iRpwejuCqXEqxBvZMWLaDZ7uTdlDeIeKxMy+KMD1kme3Fdg\nuNY8VdlUtT+pE+GBD+PIiXb/lSXMLo7mLqbh0yNwQ2LrISf2y+djCTS8HmX3j8xN\nCxxUWR9Mw9GNxvq3ZlFL8/53k/5yh+ePpXeizhg6LyLIcvjLpB7HVsaM0iWuuXBz\nS13p5smNAgMBAAECggEABM3gihJdiTO/WMgaR22yshuaFq3vwffX6fdStJFdNO4A\ndJVh0dm1HujaTnylpiSGQG9Gs4Njixx+byW734ecU/K56XVBaMkvpAbI3+c2JkIa\nnhyWyRyVrDFu7Y+qY3yuiU/b7SneXaXuYq7yKd31eLgFUZ7+Wl84O7vmZVM2JYSM\nVtxCKJxGqf0jgqmY660F2PlbabeiEohhqczau2dyQJzlm4oyqp4L2x0xRi9lV7z5\n+Ab+QiieB84zubDJLV+xff4GOzsRDYBcPDQH//s6sTpXoUVIlb28BsaM9hjjqJW5\nc72ziF8xozENIodekGFBrVCKd9MwjKHRnAGYNsW7UQKBgQD+ydTYcyBr6nUjPOPk\noLsUd3qhQEzNtshZwG7aqoX1/7b3X3t4ud0LUOoqdKlyDGQSSgnmKDh3N+/kQovH\n/es+cHzhqaX7+63imHps5zHttz7loluV6PV4LyD9o6Q1MaH4jUP2BO0tqANNxZ9c\ni1hhp+6tRxUkv8OlNfbloHyDnQKBgQDBk0wsZpMseCevxwaxRxcEGRiEeVGEBrWy\npGXwaDvLCuA//r+n+ZD+le0DaGSC+MyvwShFk60MkeRFTa/8hAAMqch7Ij65PI1T\nZI4lp0+87ZalGPplT8fw4dWrFGuTSvEgygrWd/lF/gg43F6AmmVXcqFZFnwN2HZ7\nBlCi/m3SsQKBgAu1svaPs/nBuMh5z+9+A5sZMqWekukRcXvOgEnEdIutyPbtiHsv\n75zJhzmUSwVW1HKSvIm7Z3zzMS9Ib6wtW1ZvTQ4CAgLmukMjxtyic4T9WwKqx5LI\nNh/j6pw9nRpkwZDuzSTNbSkgA6bbYkuai+FRGoMUNUCPH6rEJCjBi3dxAoGBAL6i\nLgkn91Z6+jKMoZWiehMqF9AWneWUqgnFBzMro38BNfkwC1UEXPurcJ/DhgDJvuJz\nKhLjLS/M2W465M6cvGO8LNi+z+CitldjFu4UCF356TqsD6QIXtJlxYPW9142FqOA\n9g1iV5XLaBN/Sn4CDz2AgU936jHEdGIRxQXP5R3xAoGBALfPRU7DpfZgHg5klg4P\n9eJuAuALLB9gA9DJ5Y1h3Zgk/u+wPacEkXY8bHDbnFEWUDvi/2UQMfuXGWBsJw0k\nn4zOHSen2bJyX1jnslKcJ9aFP7LDRNI30k9S+ZYkC2In8Rp+4G73ZvZ623ZXPjbH\nMkVTX/cuzNg9m4Jk5mvh0M2o\n-----END PRIVATE KEY-----\n",
+  "client_email": "sa-pubsub@dsai-safety-management.iam.gserviceaccount.com",
+  "client_id": "111943292512591973882",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sa-pubsub%40dsai-safety-management.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
